@@ -1,0 +1,8 @@
+Name:           bitRep 
+Version:        0.1
+License-file:   LICENSE
+Author:         Rick Richardson <rick.richardson@gmail.com>
+Maintainer:     Rick Richardson <rick.richardson@gmail.com>
+build-depends:  fgl, probability 
+Executable:     test
+Main-Is:        Main.hs
